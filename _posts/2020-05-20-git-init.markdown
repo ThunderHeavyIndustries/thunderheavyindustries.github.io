@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Init"
+date:   2020-05-20 22:14:02 -0600
+categories: beginings 
+---
+Gotta start somewhere...
